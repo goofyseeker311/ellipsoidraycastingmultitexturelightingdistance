@@ -1,5 +1,5 @@
 # ellipsoidraycastingmultitexturelightingdistance
-Ellipsoid Ray Caster Multi-Textured with Lighting R2-Distance in 360 degrees
+Ellipsoid Ray Caster Multi-Textured with Lighting 1/R2-Distance in 360 degrees
 
 ![raster3](https://user-images.githubusercontent.com/19920254/146472013-5c4dd40d-666c-4cc1-b615-81f94e0e78f0.png)
 ![testCCCA3](https://user-images.githubusercontent.com/19920254/146472016-0a67a6d6-6340-41fc-b3d3-90411459160d.png)
